@@ -1,16 +1,12 @@
 # appinterface
+Construção de uma Interface Completa
 
-A new Flutter project.
+    Combine os conceitos aprendidos nas aulas para criar um aplicativo simples:
+        Use um AppBar com um título.
+        Um campo de texto (TextField) para entrada de dados.
+        Um botão que, ao ser pressionado, exibe o texto digitado em uma área de texto.
 
-## Getting Started
+Objetivos:
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+    Integrar widgets interativos (TextField e Button).
+    Praticar a lógica de estado para exibir informações na tela.
